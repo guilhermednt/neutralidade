@@ -4,5 +4,5 @@
     "builds": [
         { "src": "index.html", "use": "@now/static"}
     ],
-    "regions": ["cdg1"]
+    "regions": ["cdg"]
 }
