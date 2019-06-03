@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "alias": ["neutralidade.com.br", "neutralidade.net.br"],
+    "builds": [
+        { "src": "index.html", "use": "@now/static"}
+    ],
+    "regions": ["cdg"]
+}
